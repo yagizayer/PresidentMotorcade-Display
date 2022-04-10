@@ -21,6 +21,6 @@ We are Leading a motor that protects President
 ![Events](Resources/CameraManager.png)
 
 ## Credits
-[DreamteckSplines](https://assetstore.unity.com/packages/tools/utilities/dreamteck-splines-61926)
-[Serializable Dictionaries](https://assetstore.unity.com/packages/tools/utilities/serialized-dictionary-lite-110992)
-[Stylized Vehicles Pack - Lowpoly](https://assetstore.unity.com/packages/3d/vehicles/land/stylized-vehicles-pack-low-poly-121593)
+- [DreamteckSplines](https://assetstore.unity.com/packages/tools/utilities/dreamteck-splines-61926)<br>
+- [Serializable Dictionaries](https://assetstore.unity.com/packages/tools/utilities/serialized-dictionary-lite-110992)<br>
+- [Stylized Vehicles Pack - Lowpoly](https://assetstore.unity.com/packages/3d/vehicles/land/stylized-vehicles-pack-low-poly-121593)
