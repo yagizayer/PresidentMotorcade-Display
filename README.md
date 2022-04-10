@@ -1,5 +1,5 @@
 # President Motorcade
-This is a display repository for my private project named "PresidenMotorcade".
+This is a display repository for my private project named "President Motorcade".
 ## Preview of Game
 We are Leading a motor that protects President
 
